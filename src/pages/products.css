@@ -1,0 +1,16 @@
+h1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(183, 221, 242);
+}
+
+.productCard{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    width: 30rem;
+    height: fit-content;
+
+}
